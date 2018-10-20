@@ -1,0 +1,3011 @@
+[10.10.2018 18:06:38]
+Hook started... Timer started
+
+[10.10.2018 18:06:54]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:06:54]
+<From SendMail> Return code: 4298096
+
+[10.10.2018 18:07:09]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:07:25]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:07:40]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:07:56]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:08:12]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:08:27]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:08:43]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:08:58]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:09:14]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:09:29]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:09:45]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:10:00]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:10:16]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:10:31]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:10:47]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:11:02]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:11:18]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:11:33]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:11:49]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:12:04]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:12:20]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:12:35]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:12:51]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:13:06]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:13:22]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:13:37]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:13:53]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:14:08]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:14:23]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:14:39]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:14:54]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:15:10]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:15:25]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:15:41]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:15:56]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:16:12]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:16:27]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:16:43]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:16:58]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:17:13]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:17:29]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:17:44]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:18:00]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:18:15]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:18:31]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:18:46]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:19:02]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:19:10]
+Hook started... Timer started
+
+[10.10.2018 18:19:17]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:19:25]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:19:25]
+<From SendMail> Return code: 4298096
+
+[10.10.2018 18:19:32]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:19:41]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:19:48]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:19:56]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:20:03]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:20:12]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:20:19]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:20:28]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:20:35]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:20:41]
+Hook started... Timer started
+
+[10.10.2018 18:20:43]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:20:50]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:20:56]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:20:56]
+<From SendMail> Return code: 4298096
+
+[10.10.2018 18:20:59]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:21:06]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:21:12]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:21:15]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:21:21]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:21:27]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:21:30]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:21:37]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:21:43]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:21:46]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:21:52]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:21:58]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:22:02]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:22:08]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:22:14]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:22:17]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:22:23]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:22:30]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:22:34]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:22:40]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:22:44]
+Hook started... Timer started
+
+[10.10.2018 18:22:46]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:22:49]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:22:55]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:00]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:00]
+<From SendMail> Return code: 4298096
+
+[10.10.2018 18:23:01]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:05]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:11]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:16]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:17]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:21]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:26]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:31]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:32]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:36]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:42]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:47]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:48]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:52]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:23:58]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:24:03]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:24:04]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:24:08]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:24:14]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:24:19]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:24:20]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:24:24]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:24:30]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:24:34]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:24:35]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:24:41]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:24:46]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:24:50]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:24:51]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:24:57]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:02]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:06]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:07]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:12]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:17]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:22]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:22]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:28]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:33]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:38]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:38]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:44]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:49]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:53]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:53]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:25:59]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:26:04]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:26:09]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:26:09]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:26:15]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:26:20]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:26:25]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:26:25]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:26:31]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:26:36]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:26:40]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:26:40]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:26:46]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:26:52]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:26:56]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:26:56]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:27:02]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:27:07]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:27:12]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:27:12]
+Mail was not sent! Error code: 4
+
+[10.10.2018 18:27:24]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:27:29]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:27:46]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:27:51]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:27:55]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:27:55]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:28:08]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:28:14]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:28:18]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:28:18]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:28:30]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:28:36]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:28:40]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:28:53]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:29:01]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:29:15]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:29:37]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:29:59]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:30:21]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:30:43]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:31:05]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:31:27]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:31:49]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:32:11]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:32:33]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:32:55]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:33:17]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:33:39]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:34:01]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:34:23]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:34:46]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:35:08]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:35:30]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:35:52]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:36:14]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:36:36]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:36:58]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:37:20]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:37:42]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:38:04]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:38:26]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:38:48]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:39:10]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:39:32]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:39:54]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:40:16]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:40:38]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:41:01]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:41:23]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:41:45]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:42:07]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:42:29]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:42:51]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:43:13]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:43:35]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:43:57]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:44:19]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:44:41]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:45:03]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:45:25]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:45:47]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:46:09]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:46:12]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:46:15]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:46:16]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:48:23]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:54:30]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:54:42]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:54:53]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:54:53]
+Hook started... Timer started
+
+[10.10.2018 18:55:04]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:55:13]
+<From SendMail> Return code: 7
+
+[10.10.2018 18:55:26]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:55:35]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:59:03]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:59:07]
+Mail was not sent! Error code: 259
+
+[10.10.2018 18:59:42]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:02:51]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:04:12]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:04:13]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:05:00]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:05:03]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:06:53]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:08:31]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:09:07]
+File creation was not successful. Keylog '[Space][Enter]
+'
+
+[10.10.2018 19:10:43]
+File creation was not successful. Keylog '[P][O][W][E][R][Space][R][A]'
+
+[10.10.2018 19:17:30]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:17:46]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:17:52]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:18:14]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:18:15]
+File creation was not successful. Keylog '[Volume Down][Volume Down][Volume Down][Volume Down][Volume Down][Volume Down][Volume Down]'
+
+[10.10.2018 19:18:36]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:18:50]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:18:59]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:21:54]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:22:16]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:22:38]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:22:47]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:22:47]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:22:48]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:22:49]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:23:11]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:23:34]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:23:56]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:27:22]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:27:23]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:27:30]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:27:33]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:27:45]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:27:55]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:28:07]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:28:29]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:28:50]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:29:43]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:29:58]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:30:05]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:30:16]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:30:18]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:30:20]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:30:27]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:30:40]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:30:49]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:30:51]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:31:02]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:31:11]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:31:14]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:31:24]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:31:34]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:31:36]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:31:46]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:31:58]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:32:08]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:32:19]
+Hook started... Timer started
+
+[10.10.2018 19:32:30]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:32:41]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:32:42]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:32:42]
+<From SendMail> Return code: 4298096
+
+[10.10.2018 19:32:42]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:32:43]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:32:52]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:33:09]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:33:14]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:34:07]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:34:09]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:34:10]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:34:10]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:34:12]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:34:13]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:34:31]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:34:32]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:34:32]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:34:34]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:34:35]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:34:54]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:34:56]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:34:57]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:35:18]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:35:21]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:35:31]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:35:41]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:35:43]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:36:03]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:38:00]
+Hook started... Timer started
+
+[10.10.2018 19:38:31]
+Hook started... Timer started
+
+[10.10.2018 19:38:47]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:38:52]
+<From SendMail> Return code: 7
+
+[10.10.2018 19:38:53]
+<From SendMail> Return code: 7
+
+[10.10.2018 19:38:58]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:39:00]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:39:09]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:39:15]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:39:31]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:39:31]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:39:34]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:39:35]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:39:36]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:39:45]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:39:57]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:39:58]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:40:07]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:40:19]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:40:51]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:41:13]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:41:35]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:41:57]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:42:45]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:43:00]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:43:05]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:05]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:19]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:19]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:20]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:21]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:24]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:38]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:38]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:39]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:40]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:43]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:45]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:45]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:45]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:57]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:57]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:43:57]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:00]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:03]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:04]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:05]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:05]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:16]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:16]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:16]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:19]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:23]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:23]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:24]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:36]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:36]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:36]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:39]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:43]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:44]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:55]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:56]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:56]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:44:59]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:02]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:02]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:02]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:04]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:15]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:15]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:15]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:18]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:21]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:24]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:24]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:24]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:35]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:36]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:36]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:36]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:43]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:43]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:55]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:56]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:56]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:45:56]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:01]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:01]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:02]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:02]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:14]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:15]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:15]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:16]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:20]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:20]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:33]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:34]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:35]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:35]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:39]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:39]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:41]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:52]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:53]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:54]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:55]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:58]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:46:59]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:00]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:01]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:11]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:12]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:13]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:15]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:17]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:18]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:19]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:31]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:31]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:32]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:35]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:37]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:39]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:39]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:41]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:50]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:51]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:51]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:55]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:57]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:58]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:47:58]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:00]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:09]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:10]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:10]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:15]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:17]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:17]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:17]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:21]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:28]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:29]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:29]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:35]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:36]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:36]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:36]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:47]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:48]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:48]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:54]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:56]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:56]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:48:56]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:01]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:10]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:49:10]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:49:10]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:49:14]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:15]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:15]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:15]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:20]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:28]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:29]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:29]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:33]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:34]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:34]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:34]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:39]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:48]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:48]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:48]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:52]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:53]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:54]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:55]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:49:58]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:07]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:07]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:08]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:11]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:11]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:13]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:14]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:16]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:26]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:26]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:29]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:30]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:32]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:32]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:35]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:44]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:45]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:45]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:48]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:49]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:50]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:51]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:50:53]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:03]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:04]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:04]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:07]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:07]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:09]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:10]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:11]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:26]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:26]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:28]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:29]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:30]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:40]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:45]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:46]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:47]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:48]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:51:50]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:00]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:01]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:01]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:05]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:06]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:06]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:08]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:09]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:19]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:20]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:20]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:26]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:29]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:40]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:40]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:41]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:44]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:44]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:45]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:46]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:52:49]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:01]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:01]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:01]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:05]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:06]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:06]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:07]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:08]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:21]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:21]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:21]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:26]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:26]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:27]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:30]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:47]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:47]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:48]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:49]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:53:51]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:02]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:03]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:03]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:07]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:07]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:08]
+Mail was not sent! Error code: 3
+[10.10.2018 19:54:08]
+Mail was not sent! Error code: 3
+
+
+[10.10.2018 19:54:11]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:21]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:23]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:26]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:27]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:28]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:29]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:31]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:40]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:41]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:45]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:46]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:47]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:48]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:54:50]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:00]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:01]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:01]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:05]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:05]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:07]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:08]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:10]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:19]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:19]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:20]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:24]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:26]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:27]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:31]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:38]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:39]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:41]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:43]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:44]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:46]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:47]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:51]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:59]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:55:59]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:01]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:03]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:03]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:05]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:08]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:12]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:19]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:19]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:20]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:23]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:26]
+Hook started... Timer started
+
+[10.10.2018 19:56:28]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:32]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:38]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:39]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:40]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:43]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:45]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:45]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:45]
+<From SendMail> Return code: 4298096
+
+[10.10.2018 19:56:49]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:53]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:58]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:56:59]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:00]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:02]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:02]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:05]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:05]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:08]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:12]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:18]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:19]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:20]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:29]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:32]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:39]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:39]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:42]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:57:45]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:45]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:46]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:57:47]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:57:50]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:53]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:57:59]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:00]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:03]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:06]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:07]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:07]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:08]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:11]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:14]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:19]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:20]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:28]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:58:29]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:29]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:29]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:32]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:35]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:38]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:39]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:50]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:58:51]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:58:51]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:58:51]
+Mail was not sent! Error code: 259
+
+[10.10.2018 19:58:52]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:55]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:57]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:58:59]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:02]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:10]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:11]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:11]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:11]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:11]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:15]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:17]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:18]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:30]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:31]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:32]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:32]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:33]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:34]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:35]
+Hook started... Timer started
+
+[10.10.2018 19:59:37]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:38]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:51]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:51]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:52]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:52]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:53]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:53]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:55]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:57]
+Mail was not sent! Error code: 3
+
+[10.10.2018 19:59:58]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:02]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:11]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:11]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:12]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:12]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:13]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:13]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:15]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:17]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:17]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:31]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:32]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:34]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:34]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:00:35]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:00:35]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:00:37]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:39]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:00:39]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:00:43]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:51]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:51]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:55]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:55]
+<From SendMail> Return code: 259
+
+[10.10.2018 20:00:55]
+Mail was not sent! Error code: 100
+
+[10.10.2018 20:00:56]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:56]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:56]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:58]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:00:59]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:03]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:11]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:13]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:15]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:16]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:17]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:17]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:17]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:18]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:19]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:23]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:33]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:33]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:34]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:37]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:38]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:38]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:38]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:38]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:39]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:53]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:54]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:54]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:57]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:59]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:59]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:01:59]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:00]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:00]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:02]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:09]
+File creation was not successful. Keylog '[T][E][S][T][Enter]
+[Enter]
+[H][I][I][Enter]
+[A][D][I][T][Y][A][Enter]
+[R][A][N][A][Enter]
+[Left Ctrl][S][/Left Ctrl][G][M][A][I][L][Enter]
+[Space][Delete][Enter]
+[T][E][S][T][Enter]
+[Enter]
+[H][E][L][L][O][Enter]
+[A][D][I][T][Y][A][Enter]
+[R][A][N][A][Enter]
+[Left Ctrl][S][/Left Ctrl][Left Ctrl][Left Shift][/Left Ctrl][/Left Ctrl][/Left Shift][Left Ctrl][A][/Left Ctrl][End][OEM_7 (" ')][Enter]
+[Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Right][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left][Arrow Left]'
+
+[10.10.2018 20:02:12]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:12]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:15]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:19]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:20]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:20]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:20]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:21]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:28]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:31]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:31]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:34]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:39]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:40]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:40]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:40]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:41]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:41]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:47]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:51]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:52]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:54]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:02:58]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:00]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:00]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:00]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:01]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:01]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:06]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:10]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:11]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:14]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:18]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:20]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:21]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:29]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:32]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:34]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:39]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:40]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:42]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:43]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:43]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:43]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:46]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:49]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:51]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:53]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:58]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:03:59]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:00]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:03]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:03]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:04]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:06]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:08]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:10]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:12]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:17]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:21]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:21]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:04:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:22]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:23]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:26]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:28]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:30]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:36]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:40]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:43]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:04:45]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:45]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:04:45]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:04:47]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:04:49]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:04:50]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:04:50]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:04:54]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:05:00]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:05:05]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:05:06]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:05:07]
+Mail was not sent! Error code: 259
+[10.10.2018 20:05:07]
+Mail was not sent! Error code: 259
+
+
+[10.10.2018 20:05:09]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:11]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:12]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:17]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:23]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:27]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:05:27]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:05:30]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:30]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:32]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:33]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:35]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:35]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:36]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:05:41]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:05:46]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:05:46]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:05:52]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:52]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:54]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:55]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:56]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:05:58]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:05:58]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:06:01]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:06]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:08]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:06:12]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:12]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:15]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:16]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:17]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:18]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:18]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:21]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:25]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:27]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:31]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:33]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:33]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:34]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:36]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:37]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:38]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:41]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:44]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:45]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:50]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:52]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:52]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:53]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:54]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:56]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:57]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:06:59]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:07:03]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:07:05]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:30:36]
+Hook started... Timer started
+
+[10.10.2018 20:30:53]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:30:53]
+<From SendMail> Return code: 4298096
+
+[10.10.2018 20:31:09]
+Mail was not sent! Error code: 3
+
+[10.10.2018 20:36:52]
+Hook started... Timer started
+
+[10.10.2018 20:37:14]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:37:14]
+<From SendMail> Return code: 4298096
+
+[10.10.2018 20:40:22]
+Hook started... Timer started
+
+[10.10.2018 20:40:44]
+Mail was not sent! Error code: 259
+
+[10.10.2018 20:40:44]
+<From SendMail> Return code: 4298096
+
+[10.10.2018 21:11:02]
+Hook started... Timer started
+
+[10.10.2018 21:11:39]
+Mail was not sent! Error code: 259
+
+[10.10.2018 21:11:39]
+<From SendMail> Return code: 4298096
+
+[10.10.2018 21:12:01]
+Mail was not sent! Error code: 259
+
+[10.10.2018 21:12:24]
+Mail was not sent! Error code: 259
+
+[10.10.2018 21:12:46]
+Mail was not sent! Error code: 259
+
+[10.10.2018 21:13:08]
+Mail was not sent! Error code: 259
+
+[10.10.2018 21:13:30]
+Mail was not sent! Error code: 259
+
+[10.10.2018 21:13:47]
+Mail was not sent! Error code: 3
+
