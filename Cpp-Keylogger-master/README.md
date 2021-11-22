@@ -64,7 +64,7 @@ A step by step series of examples that tell you have to get a development enviro
 Download the repository using either bash or the browser
 
 ```
-git clone https://github.com/htmercury/Cpp-Keylogger
+git clone https://github.com/ROY292/Cpp-Keylogger
 ```
 
 Open the solution file in Visual Studio using the sln file
